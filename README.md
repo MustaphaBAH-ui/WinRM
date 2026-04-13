@@ -1,4 +1,4 @@
-# ResourceMonitor
+# WinRM
 
 A lightweight real-time system resource monitor desktop app built with C# and WPF. Displays live CPU, memory, disk, and network usage with animated sparkline charts — all updating every second.
 
@@ -35,7 +35,7 @@ A lightweight real-time system resource monitor desktop app built with C# and WP
 No .NET installation required — self-contained executable.
 
 1. Go to the [Releases page](https://github.com/your-username/ResourceMonitor/releases/latest)
-2. Download `ResourceMonitor.exe`
+2. Download `WinRM.exe`
 3. Double-click to run — no installation needed
 
 ### Build from source
